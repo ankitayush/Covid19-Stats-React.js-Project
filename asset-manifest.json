@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Covid19-Stats-React.js-Project/static/css/main.db388a60.chunk.css",
+    "main.js": "/Covid19-Stats-React.js-Project/static/js/main.a7e63aa3.chunk.js",
+    "main.js.map": "/Covid19-Stats-React.js-Project/static/js/main.a7e63aa3.chunk.js.map",
+    "runtime-main.js": "/Covid19-Stats-React.js-Project/static/js/runtime-main.78aa3b9d.js",
+    "runtime-main.js.map": "/Covid19-Stats-React.js-Project/static/js/runtime-main.78aa3b9d.js.map",
+    "static/js/2.f285ada2.chunk.js": "/Covid19-Stats-React.js-Project/static/js/2.f285ada2.chunk.js",
+    "static/js/2.f285ada2.chunk.js.map": "/Covid19-Stats-React.js-Project/static/js/2.f285ada2.chunk.js.map",
+    "index.html": "/Covid19-Stats-React.js-Project/index.html",
+    "precache-manifest.f9a074ff373f62972bf8cc3505a15d1b.js": "/Covid19-Stats-React.js-Project/precache-manifest.f9a074ff373f62972bf8cc3505a15d1b.js",
+    "service-worker.js": "/Covid19-Stats-React.js-Project/service-worker.js",
+    "static/css/main.db388a60.chunk.css.map": "/Covid19-Stats-React.js-Project/static/css/main.db388a60.chunk.css.map",
+    "static/js/2.f285ada2.chunk.js.LICENSE.txt": "/Covid19-Stats-React.js-Project/static/js/2.f285ada2.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/Covid19-Stats-React.js-Project/static/media/image.d7265326.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78aa3b9d.js",
+    "static/js/2.f285ada2.chunk.js",
+    "static/css/main.db388a60.chunk.css",
+    "static/js/main.a7e63aa3.chunk.js"
+  ]
+}
